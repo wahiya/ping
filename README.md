@@ -1,0 +1,2 @@
+# ping
+Stabilkan koneksi internetmu
